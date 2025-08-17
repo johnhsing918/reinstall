@@ -20,13 +20,6 @@
 
 ## 🚀 使用方法
 
-直接執行以下命令：
-
-```bash
-bash <(curl -sL https://raw.githubusercontent.com/johnhsing918/reinstall/main/reinstall.sh)
-
-
-
 ══════════════════════════════════════════════════════════════════════
   [  W A R N I N G  ] :: High-risk operation.
 ══════════════════════════════════════════════════════════════════════
@@ -35,3 +28,7 @@ bash <(curl -sL https://raw.githubusercontent.com/johnhsing918/reinstall/main/re
 
 >> Please type 'YES' to proceed:
 
+直接執行以下命令：
+
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/johnhsing918/reinstall/main/reinstall.sh)
